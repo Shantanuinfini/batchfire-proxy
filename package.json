@@ -1,0 +1,15 @@
+{
+  "name": "batchfire-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for BatchFire Square API runner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
